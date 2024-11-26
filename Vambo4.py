@@ -9,7 +9,7 @@ app = Flask(__name__)
 CORS(app)
 
 # VamboAI Configuration
-VAMBO_API_KEY = "vai-MebSAjsarh7zf9YjnmP8cJyHeDmgHVM3"  
+VAMBO_API_KEY = ""  
 VAMBO_TRANSLATE_URL = "https://api.vambo.ai/v1/translate"
 VAMBO_LANGUAGE_IDENTIFY_URL = "https://api.vambo.ai/v1/identify/text"
 
