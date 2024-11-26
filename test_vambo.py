@@ -3,7 +3,7 @@ import json
 
 def test_vambo_api():
     # API Configuration
-    api_key = "vai-MebSAjsarh7zf9YjnmP8cJyHeDmgHVM3"
+    api_key = ""
     identify_url = "https://api.vambo.ai/v1/identify/text"
     translate_url = "https://api.vambo.ai/v1/translate/text"
     
